@@ -1,19 +1,19 @@
 # Covid-19-Exploratoratory Data Analysis
-## The primary objective of this project is to use SQL to extract as many insights as possible from the dataset. SQL queries will be used to obtain information on both global and country-specific(Nigeria) statistics such as the total number of deaths, diseased individuals, and vaccinated individuals.
+## Project Overview:
+This project  aims to explore COVID-19 data  using SQL to gain insights into the pandemic's spread, impact and trends.
+SQL queries will be used to obtain information on both country-specific(Nigeria) and global trends such as the total number of deaths, total cases, and number of people vaccinated 
 
-Data structure
-
-The dataset includes crucial global information about the coronavirus pandemic from January 28, 2020 to April 30, 2021, including vaccination rates, daily infection counts, and death tolls.
+### Data sources:
+The primary dataset used for this analysis is the "covid-death xslx"
 
 Link to main dataset: https://ourworldindata.org/covid-deaths
 
-The dataset may have been changed from the source. Please use these links to get to the excel files:
+The dataset was later split using Excel into "CovidDeaths.xlsx" and "CovidVaccinations.xslx"
 
-Covid deaths: This file provides data on the number of confirmed deaths from COVID-19.
+### Tools Used:
+- Excel
+- SQL Server
+- Github for version control and collaboration
 
-    link
-
-Covid vaccinations: This provides data on the number of confirmed vacccinations.
-
-    link
+### Data Cleaning/Preparation
 
