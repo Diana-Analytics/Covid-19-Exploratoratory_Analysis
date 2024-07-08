@@ -35,6 +35,7 @@ Apply statistical and visual methods to understand data distribution, relationsh
 - SELECT statements with filters and sorting
 - Group by used for Aggregations
 - UPDATE, DELETE and CASE statements for data cleaning
+- Joins used for joining the two tables "Coviddeaths.xlsx" and "Covidvaccinations.xslx"
 - Temp Tables,CTEs and WINDOW functions for data transformation
 - Views for later visualization
 
