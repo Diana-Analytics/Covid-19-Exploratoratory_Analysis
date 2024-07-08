@@ -10,7 +10,7 @@ where location = 'Nigeria'
 order by 1,2
 
 --TOTAL CASES VS POPULATION
--- Shows the percentage of the population that got Covid
+-- Shows the percentage of the Nigerian population that got Covid
 
 Select location, Date,
 total_cases,
