@@ -52,11 +52,23 @@ By leveraging on this, we were able to:
 - Develops interactive dashboards and reports
 - Gain insights into the pandemic's spread and impact.
 
-Our analysis revealed the following:
-- The likelihood of dying if you contact Covid in Nigeria is
-- The country with the highest death count is the US
-- Global death count is
-- Continent with the highest death count is
+Our analysis revealed the following insights:
+
+𝐇𝐢𝐠𝐡𝐞𝐫 𝐂𝐨𝐧𝐟𝐢𝐫𝐦𝐞𝐝 𝐂𝐚𝐬𝐞𝐬 :
+The United States has the highest number of confirmed cases.
+This reflects the significant impact of COVID-19 on the US, particularly during the peak periods of the pandemic.
+
+𝐋𝐨𝐰𝐞𝐬𝐭 𝐃𝐞𝐚𝐭𝐡 𝐂𝐚𝐬𝐞𝐬 :
+Countries like Dominica, Kiribati, Marshall Islands, and Samoa have the lowest number of death cases. 
+These countries may have managed to control the spread of the virus effectively or have smaller populations, leading to fewer deaths.
+
+𝐇𝐢𝐠𝐡𝐞𝐬𝐭 𝐑𝐞𝐜𝐨𝐯𝐞𝐫𝐞𝐝 𝐂𝐚𝐬𝐞𝐬 :
+The top five countries with the highest number of recovered cases are India, Brazil, the US, Turkey, and Russia. 
+These countries likely experienced high numbers of cases overall, leading to high recovery numbers as well.
+
+**Highest** 𝐃𝐞𝐚𝐭𝐡 𝐂𝐚𝐬𝐞𝐬 :
+The country with the highest death count is the United States.
+
 
 These Insights can inform public health policy,resource allocation and future research
 
